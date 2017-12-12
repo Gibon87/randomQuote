@@ -15,7 +15,6 @@
   <li>API</li>
   <li>jQuery</li>
   <li>AJAX</li>
-  <li>RWD</li>
   <li>CSS</li>
   <li>HTML</li>
 </ul>
