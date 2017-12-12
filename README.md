@@ -21,4 +21,3 @@
 
 <hr>
 
-<h3>For users</h3>
