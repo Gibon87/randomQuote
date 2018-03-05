@@ -2,6 +2,8 @@
 
 <p>If you feel a need to tweet something but your brain is not as creative as usual you can always share a gold quotation with the world. Some of them are really catchy.</p>
 
+Demo:  https://gibon87.github.io/randomQuote/
+
 <h2>How to use: </h2>
 <ul>
   <li>Click the “Random quote” button to generate next quote. The quotes mostly have an author below. </li>
